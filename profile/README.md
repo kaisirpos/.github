@@ -15,7 +15,7 @@ is an android application, using for POS, and is a serverless, running without A
 #### repository
 | Project Name     | Description  | URL Repository                                                          | 
 |------------------|--------------|-------------------------------------------------------------------------|
-| kaisirpos-documentation | kaisirpos mobile | https://github.com/kaisirpos/kaisirpos-mobile                                      |
+| kaisirpos-mobile | kaisirpos mobile | https://github.com/kaisirpos/kaisirpos-mobile                                      |
 
 
 ## Kaisirpos Web (Online)
