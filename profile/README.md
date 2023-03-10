@@ -1,5 +1,22 @@
 ## Welcome to 'Kaisir Pos Application'
-Kaisirpos is an Point of sales
+Kaisirpos is an Point of sales, mobile and web based
+
+
+## documentation
+- FSD
+- TSD
+- Diagram and Arsitektur (drawio)
+- ERD (plan uml)
+- Figma prototype
+- Api Collection postman
+- Product Backlog
+
+### repository
+| Project Name     | Description  | URL Repository                                                          | 
+|------------------|--------------|-------------------------------------------------------------------------|
+| kaisirpos-documentation | Documetation | https://github.com/kaisirpos/kaisirpos-documentation                                        |
+
+
 
 ## Kaisirpos Android (Offline)
 is an android application, using for POS, and is a serverless, running without API / server totally offline mode
@@ -46,20 +63,5 @@ is an web application, using for POS, this web have two front end, that is
 | kaisirpos-backend | backend  | https://github.com/denitone/kaisirpos-backend                                        |
 
 
-
-
-## documentation
-- FSD
-- TSD
-- Diagram and Arsitektur (drawio)
-- ERD (plan uml)
-- Figma prototype
-- Api Collection postman
-- Product Backlog
-
-
-| Project Name     | Description  | URL Repository                                                          | 
-|------------------|--------------|-------------------------------------------------------------------------|
-| kaisirpos-documentation | Documetation | https://github.com/kaisirpos/kaisirpos-documentation                                        |
 
 
