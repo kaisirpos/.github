@@ -46,7 +46,18 @@ is an web application, using for POS, this web have two front end, that is
 | kaisirpos-backend | backend  | https://github.com/denitone/kaisirpos-backend                                        |
 
 
-## Documentation
+
+
+## documentation
+- FSD
+- TSD
+- Diagram and Arsitektur (drawio)
+- ERD (plan uml)
+- Figma prototype
+- Api Collection postman
+- Product Backlog
+
+
 | Project Name     | Description  | URL Repository                                                          | 
 |------------------|--------------|-------------------------------------------------------------------------|
 | kaisirpos-documentation | Documetation | https://github.com/kaisirpos/kaisirpos-documentation                                        |
