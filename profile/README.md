@@ -14,7 +14,7 @@ Kaisirpos is an Point of sales, mobile and web based
 ### repository
 | Project Name     | Description  | URL Repository                                                          | 
 |------------------|--------------|-------------------------------------------------------------------------|
-| kaisirpos-documentation | Documetation | https://github.com/kaisirpos/kaisirpos-documentation                                        |
+| kaisirpos-documentation | Documetation | https://github.com/denitone/kaisirpos-documentation                                        |
 
 
 
