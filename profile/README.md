@@ -1,7 +1,7 @@
 ## Welcome to 'Kaisir Pos Application'
 Kaisirpos is an Point of sales
 
-### Kaisirpos Android (Offline)
+## Kaisirpos Android (Offline)
 is an android application, using for POS, and is a serverless, running without API / server totally offline mode
 
 ### kaisirpos-mobile technologies stack
@@ -18,7 +18,7 @@ is an android application, using for POS, and is a serverless, running without A
 | kaisirpos-documentation |Documetation Project | https://github.com/kaisirpos/kaisirpos-mobile                                      |
 
 
-### Kaisirpos Web (Online)
+## Kaisirpos Web (Online)
 is an web application, using for POS, this web have two front end, that is
 - kaisirposAdmin
 - kaisirpsoUser
