@@ -2,7 +2,7 @@
 Kaisirpos is an Point of sales, mobile and web based
 
 
-## documentation
+## 1. Documentation
 - FSD
 - TSD
 - Diagram and Arsitektur (drawio)
@@ -18,7 +18,10 @@ Kaisirpos is an Point of sales, mobile and web based
 
 
 
-## Kaisirpos Android (Offline)
+
+
+
+## 2. Kaisirpos Android (Offline)
 is an android application, using for POS, and is a serverless, running without API / server totally offline mode
 
 ### kaisirpos-mobile technologies stack
@@ -32,10 +35,13 @@ is an android application, using for POS, and is a serverless, running without A
 #### repository
 | Project Name     | Description  | URL Repository                                                          | 
 |------------------|--------------|-------------------------------------------------------------------------|
-| kaisirpos-mobile | kaisirpos mobile | https://github.com/kaisirpos/kaisirpos-mobile                                      |
+| kaisirpos-mobile | kaisirpos mobile | https://github.com/denitone/kaisirpos-mobile                                      |
 
 
-## Kaisirpos Web (Online)
+
+
+
+## 3. Kaisirpos Web (Online)
 is an web application, using for POS, this web have two front end, that is
 - kaisirposAdmin
 - kaisirpsoUser
