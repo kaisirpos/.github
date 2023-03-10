@@ -49,6 +49,6 @@ is an web application, using for POS, this web have two front end, that is
 ## Documentation
 | Project Name     | Description  | URL Repository                                                          | 
 |------------------|--------------|-------------------------------------------------------------------------|
-| kaisirpos-documentation | Documetation | https://github.com/dockerize-android-project/kaisirpos-documentation                                        |
+| kaisirpos-documentation | Documetation | https://github.com/kaisirpos/kaisirpos-documentation                                        |
 
 
