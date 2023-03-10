@@ -1,45 +1,34 @@
-## Welcome to 'Dockerize Android Project'
-My Name is **Deni Setiawan**, I am **Backend Dev & System Analyst** at http://nexsoft.co.id/ from Indonesia.
-**Loves writing and coding enthusiast** who always **keeps learning** about software engineering skills for make me **keep an update and strenghts skills** ??
+## Welcome to 'Kaisir Pos Application'
+Kaisirpos is an Point of sales
 
-### About Me
-| Profile     | URL                                                          | 
-|------------------|--------------|
-| Github | https://github.com/denitone |
-| Medium | https://deni-setiawan.medium.com/ |
+### Kaisirpos Android (Offline)
+is an android application, using for POS, and is a serverless, running without API / server totally offline mode
 
-
-## what is 'Dockerize Android Project'
-this organization for learning **how to dockerize android project for make the development and testing so easy and simple**.
- 
-### Overviews
-- implementation Dockerfile on android project
-- Build docker image from android project
-- push docker image to dockerhub
-- Create docker compose for setup the container 
-- run and testing the app
-
-### Repositories
-
-
-| Project Name     | Description  | URL Repository                                                          | 
-|------------------|--------------|-------------------------------------------------------------------------|
-| dap-documentation |Documetation Project | https://github.com/dockerize-android-project/dap-documentation                                        |
-| dap-mobile | Android project | https://github.com/denitone/dap-mobile                                         |
-| dap-backend |backend Project | https://github.com/denitone/dap-backend                                        |
-
-
-
-
-## Technologies
-### dap-mobile
+### kaisirpos-mobile technologies stack
 - Java 11
 - SDK 30
 - SDKManager
 - OkHttp3
 - Gradle 2.7.0
 
-### dap-backend
+
+#### repository
+| Project Name     | Description  | URL Repository                                                          | 
+|------------------|--------------|-------------------------------------------------------------------------|
+| kaisirpos-documentation |Documetation Project | https://github.com/kaisirpos/kaisirpos-mobile                                      |
+
+
+### Kaisirpos Web (Online)
+is an web application, using for POS, this web have two front end, that is
+- kaisirposAdmin
+- kaisirpsoUser
+
+
+### kaisirpos-web technologies stack
+- react.js
+
+
+### kaisirpos-web technologies stack
 - Springboot 2.7^
 - Java 11
 - Spring Security
@@ -48,5 +37,18 @@ this organization for learning **how to dockerize android project for make the d
 - Mysql
 - liquibase (database migration)
 - Docker
+
+
+#### repository
+| Project Name     | Description  | URL Repository                                                          | 
+|------------------|--------------|-------------------------------------------------------------------------|
+| kaisirpos-web | Frontend POS Admin & POS User Project | https://github.com/denitone/kaisirpos-web                                        |
+| kaisirpos-backend | backend Project | https://github.com/denitone/kaisirpos-backend                                        |
+
+
+### Documentation
+| Project Name     | Description  | URL Repository                                                          | 
+|------------------|--------------|-------------------------------------------------------------------------|
+| kaisirpos-documentation |Documetation Project | https://github.com/dockerize-android-project/kaisirpos-documentation                                        |
 
 
