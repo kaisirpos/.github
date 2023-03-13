@@ -14,7 +14,7 @@ Kaisirpos is an Point of sales, mobile and web based
 ### repository
 | Project Name     | Description  | URL Repository                                                          | 
 |------------------|--------------|-------------------------------------------------------------------------|
-| kaisirpos-documentation | Documetation | https://github.com/denitone/kaisirpos-documentation                                        |
+| kaisirpos-documentation | Documetation | https://github.com/denitiawan/kaisirpos-documentation                                        |
 
 
 
@@ -35,7 +35,7 @@ is an android application, using for POS, and is a serverless, running without A
 #### repository
 | Project Name     | Description  | URL Repository                                                          | 
 |------------------|--------------|-------------------------------------------------------------------------|
-| kaisirpos-mobile | kaisirpos mobile | https://github.com/denitone/kaisir-mobile                                      |
+| kaisirpos-mobile | kaisirpos mobile | https://github.com/denitiawan/kaisir-mobile                                      |
 
 
 
@@ -65,8 +65,8 @@ is an web application, using for POS, this web have two front end, that is
 #### repository
 | Project Name     | Description  | URL Repository                                                          | 
 |------------------|--------------|-------------------------------------------------------------------------|
-| kaisirpos-web | Frontend POS Admin & POS User  | https://github.com/denitone/kaisirpos-web                                        |
-| kaisirpos-backend | backend  | https://github.com/denitone/kaisirpos-backend                                        |
+| kaisirpos-web | Frontend POS Admin & POS User  | https://github.com/denitiawan/kaisirpos-web                                        |
+| kaisirpos-backend | backend  | https://github.com/denitiawan/kaisirpos-backend                                        |
 
 
 
