@@ -54,9 +54,9 @@ is an android application, using for POS, and is a serverless, running without A
 
 
 #### 1.2.2. repository
-| Project Name     | Description  | URL Repository                                                          | 
+| Project Name     | Visibility  | URL Repository                                                          | 
 |------------------|--------------|-------------------------------------------------------------------------|
-| kaisirpos-mobile | kaisirpos mobile | https://github.com/denitiawan/kaisir-mobile                                      |
+| kaisirpos-mobile | private| https://github.com/denitiawan/kaisir-mobile                                      |
 
 
 
