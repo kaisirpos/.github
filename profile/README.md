@@ -14,18 +14,43 @@ My Name is **Deni Setiawan**, I am **Backend Dev & System Analyst** at http://ne
 Kaisirpos is an Point of sales, mobile and web based
 
 ## 1.1. Overviews
-- 
+- User
+- Role
+- Access
+- Product & Category
+- Search Product
+- Customer 
+- Search Customer
+- Promotion
+- Point Of Sales
+- Stock Management
+- Stock Monitoring
+- Report Customer Export to PDF / Excel
+- Report Invoice Export to PDF / Excel
+- Cashdrawer integration
+- ESCPOS integration
+- Barcode integration
 
 
 ## 1.2. Kaisirpos Android (Offline)
 is an android application, using for POS, and is a serverless, running without API / server totally offline mode
 
-### 1.2.1 Frontend Technologies
+### 1.2.1 Mobile Technologies
 `Java 11`
 `SDK 30`
 `SDKManager`
-`OkHttp3`
 `Gradle 2.7.0`
+`MVP`
+`Fragment`
+`Room Sqlite`
+`Shared Preferences`
+`Printer ESC POS`
+`Cash Drawer`
+`Excel-CSV Export & Import`
+`PDF Export`
+`WhatApp Notification`
+`Email Notification   
+
 
 
 #### 1.2.2. repository
@@ -82,10 +107,10 @@ is an android application, using for POS, and is a serverless, running without A
 
 
 ### 1.3.3. Repositories
-| Project Name     | Description  | URL Repository                                              | 
+| Project Name     | Visibility  | URL Repository                                                          | 
 |------------------|--------------|-------------------------------------------------------------|
-| kaisirpos-web | Frontend POS Admin & POS User  | https://github.com/denitiawan/kaisirpos-web  |
-| kaisirpos-backend | backend  | https://github.com/denitiawan/kaisirpos-backend                |
+| kaisirpos-web | private | https://github.com/denitiawan/kaisirpos-web  |
+| kaisirpos-backend | private  | https://github.com/denitiawan/kaisirpos-backend                |
 
 
 
