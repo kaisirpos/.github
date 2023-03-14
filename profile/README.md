@@ -135,7 +135,7 @@ is an android application, using for POS, and is a serverless, running without A
 # 
 
 
-# 2. Run application using Docker Compose
+# 2. How to running the application? you can try it using Docker Compose
 - clone `setup` repository on this link https://github.com/kaisirpos/setup
 - after clone, open folder `./docker-compose/kaisirpos` in `terminal` or `cmd`
 - on `terminal` or `cmd` type this commands `docker-compose up -d`
