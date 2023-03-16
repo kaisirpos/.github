@@ -56,7 +56,7 @@ is an android application, using for POS, and is a serverless, running without A
 #### 1.2.2. repository
 | Project Name     | Visibility  | URL Repository                                                          | 
 |------------------|--------------|-------------------------------------------------------------------------|
-| kaisirpos-mobile | private| https://github.com/denitiawan/kaisir-mobile                                      |
+| kaisirpos-mobile | private| [...](https://github.com/denitiawan/kaisir-mobile)|
 
 
 
@@ -109,8 +109,8 @@ is an android application, using for POS, and is a serverless, running without A
 ### 1.3.3. Repositories
 | Project Name     | Visibility  | URL Repository                                                          | 
 |------------------|--------------|-------------------------------------------------------------|
-| kaisirpos-web | private | https://github.com/denitiawan/kaisirpos-web  |
-| kaisirpos-backend | private  | https://github.com/denitiawan/kaisirpos-backend                |
+| kaisirpos-web | private | [...](https://github.com/denitiawan/kaisirpos-web)  |
+| kaisirpos-backend | private  | [...](https://github.com/denitiawan/kaisirpos-backend )               |
 
 
 
@@ -129,7 +129,7 @@ is an android application, using for POS, and is a serverless, running without A
 ### 1.4.1. repository
 | Project Name     | Visibility  | URL Repository                                                          | 
 |------------------|--------------|-------------------------------------------------------------------------|
-| documentation-service | private | https://github.com/denitiawan/kaisirpos-documentation                   |
+| documentation-service | private | [...](https://github.com/denitiawan/kaisirpos-documentation )                  |
 
 
 # 
