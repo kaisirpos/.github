@@ -129,7 +129,7 @@ is an android application, using for POS, and is a serverless, running without A
 ### 1.4.1. repository
 | Project Name     | Visibility  | URL Repository                                                          | 
 |------------------|--------------|-------------------------------------------------------------------------|
-| documentation-service | private | [...](https://github.com/denitiawan/kaisirpos-documentation )                  |
+| documentation | private | [...](https://github.com/denitiawan/kaisirpos-documentation )                  |
 
 
 # 
