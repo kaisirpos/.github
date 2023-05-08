@@ -1,4 +1,4 @@
-# Kairi Pos
+# Kaisir Pos
 Kaisirpos is an Point of sales, mobile and web based
 
 ## 1.1. Overviews
