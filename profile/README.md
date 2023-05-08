@@ -1,15 +1,3 @@
-# Welcome 
-
-My Name is **Deni Setiawan**, I am **Backend Dev & System Analyst** at http://nexsoft.co.id/ from Indonesia.
-**Loves writing and coding enthusiast** who always **keeps learning** about software engineering skills for make me **keep an update and strenghts skills** 🚀
-
-
-## About Me
-| Profile     | URL                                                          | 
-|------------------|--------------|
-| Github | https://github.com/denitiawan |
-| Medium | https://deni-setiawan.medium.com/ |
-
 # 1. what is 'KaisirPOS Project'
 Kaisirpos is an Point of sales, mobile and web based
 
@@ -147,5 +135,14 @@ is an android application, using for POS, and is a serverless, running without A
 | kaisirpos-web  | http://localhost:3001 | Browser |
 
 
+
+## About Me
+My Name is **Deni Setiawan**, I am **Backend Dev & System Analyst** at http://nexsoft.co.id/ from Indonesia.
+**Loves writing and coding enthusiast** who always **keeps learning** about software engineering skills for make me **keep an update and strenghts skills** 🚀
+
+| Profile     | URL                                                          | 
+|------------------|--------------|
+| Github | https://github.com/denitiawan |
+| Medium | https://deni-setiawan.medium.com/ |
 
 
