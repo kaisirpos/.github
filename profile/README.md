@@ -1,5 +1,5 @@
 # Kaisir Pos
-Kaisirpos is an Point of sales, mobile and web based
+Kaisirpos is an Point of sales, was build by Deni Setiawan
 
 ## 1.1. Overviews
 - User
