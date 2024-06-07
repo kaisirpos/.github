@@ -4,6 +4,9 @@ Version
 - FE : 2.3.0
 - BE : 1.45.1
 ```
+## Links
+- [Components](https://github.com/kaisirpos/.github/blob/main/profile/page/kasiripos-components.md)
+- [Point Of Sales](https://github.com/kaisirpos/.github/blob/main/profile/page/kaisirpos-module-pos.md)
 
 ## Features (Authentication & Authorization)
 Login page merupakan halaman yang dapat dipakai untuk login ke dalam aplikasi, user yang login akan di cek terkait hak akses 
@@ -73,7 +76,5 @@ Module AI merupakan chat bot assiten yang dimana user dapat melakukan (chat deng
 <br/>
 <img src="https://github.com/kaisirpos/.github/assets/11941308/951d272d-7762-47d4-ab15-6fe3ef13d2aa" alt="Alt text" width="150">
 
-## Components
-[Kaisir POS Components](https://github.com/kaisirpos/.github/blob/main/profile/page/kasiripos-components.md)
 
 
