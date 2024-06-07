@@ -1,4 +1,4 @@
-[<-Back](https://github.com/kaisirpos/.github/blob/main/profile/page/kasiripos-modules-features.md)
+[<- Back](https://github.com/kaisirpos)
 
 # Kaisirpos Mobile Tech Stack
 is an android application, using for POS, and is a serverless, running without API / server totally offline mode
@@ -6,7 +6,7 @@ is an android application, using for POS, and is a serverless, running without A
 ## Repositories
 | Project Name     | Visibility  | URL Repository                                                          | 
 |------------------|--------------|-------------------------------------------------------------|
-| kaisirpos-mobile | private| [...](https://github.com/denitiawan/kaisir-mobile)|
+| kaisirpos-mobile | private| [mobile](https://github.com/denitiawan/kaisir-mobile)|
 
 ## Mobile
 `Java 11`
