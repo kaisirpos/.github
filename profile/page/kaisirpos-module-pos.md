@@ -1,4 +1,5 @@
-[<-Back](https://github.com/kaisirpos/.github/edit/main/profile/page/kasiripos-modules-features.md)
+[<-Back](https://github.com/kaisirpos/.github/blob/main/profile/page/kasiripos-modules-features.md)
+
 
 # POS
 Point of Sales , merupakan halaman yang dipakai oleh kasir untuk melakukan transaksi penjualan, adapun dibawah ini memiliki fitur
