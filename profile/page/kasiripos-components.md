@@ -1,4 +1,4 @@
-[<-Back](https://github.com/kaisirpos/.github/edit/main/profile/page/kasiripos-modules-features.md)
+[<-Back](https://github.com/kaisirpos/.github/blob/main/profile/page/kasiripos-modules-features.md)
 
 # Component
 Pada setiap feature memiliki component didalamnya dan memiliki fungsi masing-masing
