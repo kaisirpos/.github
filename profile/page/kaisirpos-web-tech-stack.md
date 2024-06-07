@@ -1,6 +1,6 @@
 [<-Back](https://github.com/kaisirpos/.github/blob/main/profile/page/kasiripos-modules-features.md)
 
-# Kaisirpos Tech Stack
+# Kaisirpos Web Tech Stack
 Tech Stack for building KaisiPOS web Application
 
 ## Repositories
