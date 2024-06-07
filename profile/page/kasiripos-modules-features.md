@@ -74,6 +74,6 @@ Module AI merupakan chat bot assiten yang dimana user dapat melakukan (chat deng
 <img src="https://github.com/kaisirpos/.github/assets/11941308/951d272d-7762-47d4-ab15-6fe3ef13d2aa" alt="Alt text" width="150">
 
 ## Components
-[Kaisir POS Components](https://github.com/kaisirpos/.github/edit/main/profile/page/kasiripos-components.md)
+[Kaisir POS Components](https://github.com/kaisirpos/.github/blob/main/profile/page/kasiripos-components.md)
 
 
