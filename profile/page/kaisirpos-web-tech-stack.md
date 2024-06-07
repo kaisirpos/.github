@@ -1,4 +1,4 @@
-[<-Back](https://github.com/kaisirpos/.github/blob/main/profile/page/kasiripos-modules-features.md)
+[<- Back](https://github.com/kaisirpos)
 
 # Kaisirpos Web Tech Stack
 Tech Stack for building KaisiPOS web Application
