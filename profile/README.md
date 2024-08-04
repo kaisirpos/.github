@@ -14,7 +14,8 @@ Merupakan web aplikasi untuk kebutuhan Point Of Sales
 - [2. KaisirPOS Web Tech Stack](https://github.com/kaisirpos/.github/blob/main/profile/page/kaisirpos-web-tech-stack.md)
 
 ### Private Repository
-<img src="https://github.com/user-attachments/assets/b4626caa-301b-4629-8430-56ab062b69d5" >
+<img src="https://github.com/user-attachments/assets/6af0dfd5-7083-4f1d-9192-e9e2af924775" >
 
 ### Contact
 Hubungi saya [Deni Setiawan](https://www.linkedin.com/in/deni-setiawan-a2328967/) jika tertarik dengan project ini.
+
